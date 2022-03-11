@@ -6,8 +6,8 @@ HTML이 웹 브라우저 환경의 베이스가 됨을 알 수 있음
 아름다운 HTML 코드를 작성하자  
 
 Semantic Markup  
-의미구조에 맞는 코드  
-검색엔진 최적화(Search Engine Optimization)  
+* 의미구조에 맞는 코드  
+* 검색엔진 최적화(Search Engine Optimization)  
 
   
 ### 시맨틱  
