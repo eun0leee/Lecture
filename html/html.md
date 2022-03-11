@@ -13,7 +13,8 @@ Semantic Markup
 ### 시맨틱  
 div는 브라우저가 정보의 위계질서 파악하는데 큰 도움을 주지 못함  
 nav 태그를 소중히 씀. 한 페이지 당 보통 1개.
-+ <nav> : 
++ nav : 
+```
   <nav> 
     <ul> 
       <li><a href="#">Home</a></li> 
@@ -23,3 +24,4 @@ nav 태그를 소중히 씀. 한 페이지 당 보통 1개.
       <li><a href="#">Map</a></li> 
     </ul> 
   </nav>
+```
