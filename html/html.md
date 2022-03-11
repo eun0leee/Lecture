@@ -9,6 +9,7 @@ Semantic Markup
 의미구조에 맞는 코드  
 검색엔진 최적화(Search Engine Optimization)  
 
+  
 ### 시맨틱  
 div는 브라우저가 정보의 위계질서 파악하는데 큰 도움을 주지 못함  
 nav 태그를 소중히 씀. 한 페이지 당 보통 1개.   
